@@ -32,6 +32,7 @@ There is a javascript file which highlights the run you hover over and changes c
 
 Note: due to the way polylines are added to the map and the way the map works by being tiles, the runs only show on the starting tiles (so don't go all the way east or west and loop round, as the runs wont be shown there)
 # Example
+I have not shared a generated map (instead this screenshot) as running data contains locations which are private, the file created can be relatively for a webpage, with my 200 runs on a map the map size was 1.7mb
 ![map](https://github.com/LemmoLem/Adidas-running-map-and-plots/assets/124703792/63dd8b3a-1839-4507-b7b8-35f0c5e6f28e)
 The plots are generated with matplotlib and are shown in ide as well. The images are saved to the same folder as where you run this program
 ![image](https://github.com/LemmoLem/Adidas-running-map-and-plots/assets/124703792/f5551754-73a5-4697-a21b-611d49992676)
